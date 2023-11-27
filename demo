@@ -1,2 +1,0 @@
-alter table orders add column create_date TIMESTAMP;
-select id from orders where id=1;
